@@ -1,0 +1,36 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env/
+.venv/
+venv/
+env/
+
+# Jupyter runtime files
+.jupyter/
+.local/share/jupyter/runtime/
+
+# Environment and dependency files
+*.egg-info/
+*.egg
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary data outputs
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.db
+
+# Notebook metadata backups
+*.nbconvert.ipynb
